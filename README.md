@@ -1,3 +1,6 @@
+<img width="2531" height="1431" alt="image" src="https://github.com/user-attachments/assets/c83fa662-57ea-4c09-ba73-91f5e5d99aeb" />
+
+
 # Hacktoberfest
 
 Conteúdos sobre Hacktoberfest.
