@@ -14,3 +14,7 @@ Conteúdos sobre Hacktoberfest.
 ## Repositórios
 
 - [Lista de Repositórios para contribuir](https://github.com/stars/ana-maria-silva/lists/repos-hacktoberfest)
+
+## Referências
+
+[Live "Desbravando o Hacktoberfest com Ana Maria" no Discord da Alura](https://github.com/ana-maria-silva/hacktoberfest/blob/main/Discord%20Hacktoberfest%202025.pdf)
