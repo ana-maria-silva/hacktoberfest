@@ -21,3 +21,7 @@ Conteúdos sobre Hacktoberfest.
 ## Referências
 
 [Live "Desbravando o Hacktoberfest com Ana Maria" no Discord da Alura](https://github.com/ana-maria-silva/hacktoberfest/blob/main/Discord%20Hacktoberfest%202025.pdf)
+
+
+
+### Happy Hacktoberfest!
